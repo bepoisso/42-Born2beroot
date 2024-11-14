@@ -484,6 +484,7 @@ sudo systemctl start minecraft   # Start the server
 sudo systemctl stop minecraft    # Stop the server
 sudo systemctl restart minecraft # Restart the server
 sudo systemctl status minecraft  # View the server's status
+mclog                            # View minecraft server console
 ```
 
 ---
